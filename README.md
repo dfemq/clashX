@@ -1,6 +1,6 @@
 # clashX
 
-ClashX & ClashXPro 1.118.0 备份文件
+ClashX & ClashXPro 1.118.0
 
 ## download
 
